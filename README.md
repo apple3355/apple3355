@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ## 🧙‍️ About Me
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=Bloglovin&logoColor=white)](https://create-something-from-nothing.tistory.com) [![Email](https://img.shields.io/badge/creative.apme@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](https://github.com/apple3355)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps%3A%2F%2Fgithub.com%2Fapple3355&count_bg=%2379C83D&title_bg=%230C9E2D&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://github.com/apple3355)
+  
 ##### 👋 Hi there! I'm backend developer using Spring and Node.js ! 
 ##### Sometimes I face difficulties in development, but I always try to overcome them and have fun.
 ##### I'm developing in a serious manner because I (or we) can change a person's future with just one line of code, or maybe launch a rocket. 
