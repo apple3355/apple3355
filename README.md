@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 <!--![header](https://capsule-render.vercel.app/api?type=rounded&color=373d49&height=200&section=header&text=👉EUNJI%20BAE🖥&fontSize=70) 
 -->
-
 <div align="center">
 
 ## 🧙‍️ About Me
