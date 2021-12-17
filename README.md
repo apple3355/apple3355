@@ -14,20 +14,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=373d49&height=200&section=header&text=👉EUNJI%20BAE🖥&fontSize=70)
+<!--![header](https://capsule-render.vercel.app/api?type=rounded&color=373d49&height=200&section=header&text=👉EUNJI%20BAE🖥&fontSize=70) 
+-->
 
+## 🧙‍️ About Me
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=Bloglovin&logoColor=white)](https://create-something-from-nothing.tistory.com) [![Email](https://img.shields.io/badge/creative.apme@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](https://github.com/apple3355)
 ##### 👋 Hi there! I'm backend developer using Spring and Node.js ! 
 ##### Sometimes I face difficulties in development, but I always try to overcome them and have fun.
 ##### I'm developing in a serious manner because I (or we) can change a person's future with just one line of code, or maybe launch a rocket. 
-##
-## 💡 _Tech_
+&nbsp;
+
+![elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=apple3355&show_icons=true&theme=prussian)
+
+
+## 💡 Tech
 #### Platforms & Languages
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://github.com/apple3355)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=black)](https://github.com/apple3355)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://github.com/apple3355)   [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/apple3355) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/apple3355)
+[![NodeJs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://github.com/apple3355) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)](https://github.com/apple3355) [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)](https://github.com/apple3355)  
+[![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white)](https://github.com/apple3355)
 
 
 #### Database
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)](https://github.com/apple3355) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)](https://github.com/apple3355) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)](https://github.com/apple3355) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://github.com/apple3355)
 
-##
+#### Server & Cloud
+[![ApacheTomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white)](https://github.com/apple3355) [![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)](https://github.com/apple3355)
+
 #### Tools
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)](https://github.com/apple3355) [![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/apple3355)
+[![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white)](https://github.com/apple3355) [![vsCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)](https://github.com/apple3355) 
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)](https://github.com/apple3355) 
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)](https://github.com/apple3355) [![Gather](https://img.shields.io/badge/Gather-E71D29?style=flat&logo=Undertale&logoColor=white)](https://github.com/apple3355) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://github.com/apple3355) 
