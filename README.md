@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://github.com/apple3355)   [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/apple3355) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/apple3355) <br>
 [![NodeJs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://github.com/apple3355) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)](https://github.com/apple3355) [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)](https://github.com/apple3355) <br>
-[![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=ApacheMaven&logoColor=white)](https://github.com/apple3355)
-
 
 #### Database
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)](https://github.com/apple3355) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)](https://github.com/apple3355) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://github.com/apple3355) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)](https://github.com/apple3355)
