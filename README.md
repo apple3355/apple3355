@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-## 🧙‍️ About Me
+## 👩‍💻 About Me
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=Bloglovin&logoColor=white)](https://create-something-from-nothing.tistory.com) [![Email](https://img.shields.io/badge/creative.apme@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](https://github.com/apple3355)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps%3A%2F%2Fgithub.com%2Fapple3355&count_bg=%2379C83D&title_bg=%230C9E2D&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://github.com/apple3355)
   
