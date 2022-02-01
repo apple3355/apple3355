@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 
 #### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)](https://github.com/apple3355) [![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/apple3355) <br>
-[![Jest](https://img.shields.io/badge/Jest-FBBA00?style=flat&logo=Jest&logoColor=white)](https://github.com/apple3355) <br>
 [![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white)](https://github.com/apple3355) [![vsCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)](https://github.com/apple3355) <br>
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)](https://github.com/apple3355)  [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://github.com/apple3355) 
 
