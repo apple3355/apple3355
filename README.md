@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 ## 💡 Tech
 #### Languages & Framework
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://github.com/apple3355)   [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)](https://github.com/apple3355) <br>
-[![NodeJs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://github.com/apple3355) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)](https://github.com/apple3355) <br>
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://github.com/apple3355) <br>
+[![NodeJs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)](https://github.com/apple3355) <br>
 
 #### Database
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)](https://github.com/apple3355)
